@@ -1,4 +1,4 @@
-# European Cities Climate Variable Analysis
+# European Cities Climate Variables Analysis
 This document outlines the process of analysing various aspects of four European Cities. 
 The goal is to better understand how the climate changed during a specific time period.
 
