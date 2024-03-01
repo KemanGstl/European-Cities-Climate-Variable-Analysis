@@ -21,4 +21,9 @@ Data is requested from the Copernicus Climate Data Store (CDS), using an API key
 Before any analysis can happen, data needs to be requested from CDS. The use of an API key is not necessary at this scale but an interesting thing to learn. Especially since it can be a transferable skill.
 [Here](https://github.com/KemanGstl/European-Cities-Climate-Variable-Analysis/blob/main/CDS_Data_Access_With_API.md) is the process I went through for my first data set request, the Air Temperature variable.
 
+##Concatenate the data
+
+
+A total of 120 NetCDF (.nc) files for Geneva's air temperature have been downloaded, a total of . Appending the data is necessary to process and analyse the data in both Python and QGIS.
+
 
