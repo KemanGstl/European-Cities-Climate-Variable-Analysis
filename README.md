@@ -42,7 +42,7 @@ In this video, he goes on to troubleshoot coordinate systems. The filter has bee
 Now that the alignement has been taken care of, I can see that the minimum temperature is set at 0 K. Logging a natural absolute zero at Earth surface would have made the news, therefore there has been an issue during formatting.
 To tackle this issue, considering the potential use of dozens of files, Python will be used to conserve the integrity of the data, as shown [here]().
 
-
+Currently loading QGIS training manual in my skillset, please wait...
 
 
 
